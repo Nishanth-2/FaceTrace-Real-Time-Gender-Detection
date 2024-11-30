@@ -1,4 +1,4 @@
-Gender Detection Using AI
+*Gender Detection Using AI*
 Overview
 This project utilizes advanced Deep Learning and Computer Vision techniques to detect and classify gender from facial images. It leverages OpenCV for image processing and Caffe models for deep learning inference.
 
